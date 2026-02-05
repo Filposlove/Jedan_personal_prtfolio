@@ -1,0 +1,128 @@
+<style>
+      h2, h3, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
+      }
+      body {
+        background-color: rgb(2, 2, 10);
+      }
+      .head-nav {
+        background-color: rgb(251, 255, 251);
+        position: flex;
+        top: 0;
+        right: 0;
+        gap: 50px;
+        padding: 15px;
+        color: rgb(7, 6, 6);
+        margin-left: 350px;
+        margin-right: 200px;
+        text-align: center;
+        align-items: flex-end;
+        padding-left: 25px;
+        border-radius: 50px;
+      }
+      
+      .head-nav:hover {
+        background-color:  rgb(44, 248, 98);
+        color: white;
+      }
+       .head-nav:focus {
+        background-color:  rgb(251, 231, 14);
+        color: rgb(28, 17, 26);
+      }
+       .head-nav:active {
+        background-color:  rgb(67, 214, 233);
+        color: rgb(236, 252, 22);
+      }
+    
+      .image-link {
+        background-color: rgb(218, 251, 5);
+        width: 200px;
+        height: 30px;
+      }
+      .image-love {
+        border-radius: 220px;
+        position: relative;
+        top: 0;
+        left: 480px;
+        
+      }
+       .learn-one {
+        font-family: 'Franklin Gothic Medium';
+        text-align: left;
+        margin-right: px;
+        color: white;
+        padding-left: 60px;
+      }
+      
+       
+      .for-link {
+        width: 850px;
+        text-align: left;
+        color: white;
+      }
+       h1, h2, h3, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
+      }
+      main {
+        background-color: rgb(2, 2, 10);
+        border-color: solid 2px  aliceblue;
+        margin-bottom: 100px;
+        border: no;
+      }
+      #heade-one {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        border-radius: 8px;
+        background-color: wheat;
+        color: rgb(4, 4, 4);
+        font-size: 60px;
+        padding: 18px;
+        margin: 50px;
+        width: 400px;
+        height: 50px;
+      }
+
+      #par-one {
+        display: flex;
+        color: wheat;
+        width: 800px;
+        padding: 60px;
+        margin-left: 200px;
+        text-align: center;
+      }
+      #link-img {
+        background-color: rgb(228, 236, 187);
+        position: line;
+        color: rgb(14, 10, 3);
+        margin: 50px;
+      }
+      #img-html {
+        align-items: center;
+        position: block;
+        justify-content: space-between;
+        width: 350px;
+       margin: 50px;
+       margin-left: 480px;
+      }
+      .head-middle {
+        margin: 100px;
+      }
+      #anch-link {
+        color: wheat;
+      }
+      .for-link {
+        color: white;
+      }
+      figcaption {
+        color: white;
+        text-align: left;
+        margin-top: 10px;
+      }
+      footer {
+        background-color: rgb(49, 21, 21);
+        color: rgb(241, 236, 236);
+
+      }
+    </style>
