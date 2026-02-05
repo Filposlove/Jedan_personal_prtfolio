@@ -1,5 +1,4 @@
-<style>
-      h2, h3, p {
+h2, h3, p {
         color: rgb(248, 248, 247);
         text-align: center;
       }
@@ -26,11 +25,11 @@
         background-color:  rgb(44, 248, 98);
         color: white;
       }
-       .head-nav:focus {
+      .head-nav:focus {
         background-color:  rgb(251, 231, 14);
         color: rgb(28, 17, 26);
       }
-       .head-nav:active {
+      .head-nav:active {
         background-color:  rgb(67, 214, 233);
         color: rgb(236, 252, 22);
       }
@@ -47,7 +46,7 @@
         left: 480px;
         
       }
-       .learn-one {
+      .learn-one {
         font-family: 'Franklin Gothic Medium';
         text-align: left;
         margin-right: px;
@@ -55,13 +54,12 @@
         padding-left: 60px;
       }
       
-       
       .for-link {
         width: 850px;
         text-align: left;
         color: white;
       }
-       h1, h2, h3, p {
+      h1, h2, h3, p {
         color: rgb(248, 248, 247);
         text-align: center;
       }
@@ -103,8 +101,8 @@
         position: block;
         justify-content: space-between;
         width: 350px;
-       margin: 50px;
-       margin-left: 480px;
+        margin: 50px;
+        margin-left: 480px;
       }
       .head-middle {
         margin: 100px;
@@ -123,6 +121,4 @@
       footer {
         background-color: rgb(49, 21, 21);
         color: rgb(241, 236, 236);
-
       }
-    </style>
