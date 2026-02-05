@@ -1,0 +1,75 @@
+h2, h3, p {
+        color: rgb(248, 248, 247);
+        text-align: center;
+      }
+      body {
+        background-color: rgb(2, 2, 10);
+      }
+      img{
+        border-radius: 50px;
+        margin-left: 400px;
+      }
+      #head-nav {
+        background-color: rgb(251, 255, 251);
+        position: flex;
+        top: 0;
+        right: 0;
+        gap: 50px;
+        padding: 15px;
+        color: rgb(7, 6, 6);
+        margin-left: 350px;
+        margin-right: 200px;
+        text-align: center;
+        align-items: flex-end;
+        padding-left: 25px;
+        border-radius: 50px;
+      }
+      #head-nav:hover {
+        background-color:  rgb(6, 242, 6);
+        color: rgb(16, 13, 13);
+      }
+       #head-nav:focus {
+        background-color:  rgb(251, 231, 14);
+        color: rgb(28, 17, 26);
+      }
+      #head-nav:active {
+        background-color:  rgb(67, 214, 233);
+        color: rgb(236, 252, 22);
+      }
+      
+      main {
+        background-color: rgb(2, 2, 10);
+        margin-bottom: 100px;
+        border: no;
+      }
+      .learn-one {
+        font-family: 'Franklin Gothic Medium';
+        text-align: left;
+        margin-right: px;
+        color: white;
+        padding-left: 60px;
+      }
+      
+       .learn-two {
+        background-color: yellow;
+        width: 570px;
+        font-family: 'Franklin Gothic Medium';
+        text-align: left;
+        color: rgb(17, 15, 15);
+      }
+      #unch-one {
+        color: rgb(13, 247, 52);
+      }
+      h1,h2,h3,p {
+        color: white;
+        text-align: center;
+        text-align: left;
+      }
+      footer {
+        background-color: rgb(49, 21, 21);
+        color: rgb(241, 236, 236);
+
+      }
+      .fot-two {
+        margin-top: -80px;
+      }
